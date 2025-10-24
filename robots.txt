@@ -1,0 +1,3 @@
+# robots.txt (place in repo root)
+User-agent: *
+Disallow: /
